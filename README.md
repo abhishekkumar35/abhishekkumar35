@@ -8,6 +8,9 @@
 <p align="center">I have a passion for building web applications.</p>
 
 <p align="center">
+   <a href="https://codeabode.in">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:flashtoak@gmail.com">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
   </a>
@@ -17,9 +20,6 @@
   <a href="https://github.com/abhishekkumar35">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://codeabode.in">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
 </p>
 
 <p align="center"><b>Software Engineer | Next.js | TypeScript | Node.js | AI Enthusiast</b></p>
