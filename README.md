@@ -81,19 +81,6 @@
 
 <hr>
 
-<h2 align="center">Projects</h2>
-
-<div align="center">
-  <a href="https://cc.codeabode.in">
-    <img src="https://img.shields.io/badge/URL_Shortener-brightgreen?style=for-the-badge" alt="URL Shortener"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Content_Repurposer-blue?style=for-the-badge" alt="Content Repurposer"/>
-  </a>
-</div>
-
-<hr>
-
 <h2 align="center">Mentorship & Open Source</h2>
 
 <div align="center">
@@ -119,5 +106,5 @@
 </div>
 
 <p align="center">
-  <em>Crafted with ❤️ and lots of ☕</em>
+  <em>Crafted with ❤️ and lots of ☕ 😊 </em>
 </p>
