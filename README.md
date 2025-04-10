@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<p align="center"><b>Software Engineer | Next.js | TypeScript | Node.js |Python | AI Enthusiast</b></p>
+<p align="center"><b>Software Engineer | Next.js | TypeScript | Node.js | Python | AI Enthusiast</b></p>
 
 <hr>
 
