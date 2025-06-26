@@ -23,7 +23,7 @@
 </p>
 
 <p align="center"><b>Software Engineer | Next.js | TypeScript | Node.js | Python | AI Enthusiast</b></p>
-
+<p align="center">Try My Vscode Pitch Black Dark theme specially made for Night Coder's<a href="https://marketplace.visualstudio.com/items?itemName=AbhishekKumar35.the-high-contrast-dark-theme">Try Here</a></p>
 <hr>
 
 <div align="center">
